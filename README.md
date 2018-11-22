@@ -81,6 +81,13 @@
 
 - **[序列模型和注意力机制](https://redstonewill.com/1377/)**
 
+## 其它资料
+
+吴恩达在 Coursera 上开设的机器学习入门课《Machine Learning》，这门课所有的视频、课件PPT、作业：
+
+链接：https://pan.baidu.com/s/1I3bP48IJLTDGj0gH3LSlBg 
+
+密码：bror
 
 ## 最后
 
